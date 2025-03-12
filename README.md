@@ -9,7 +9,7 @@
 ## 🧑‍💻 Sobre mim
 
 - 🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas** (5º período) na **UNIBRA**
-- 🚀 Apaixonado por **Tecnologia**, **Programação** e **Soluções Inovadoras**
+- 🚀 Apaixonado por **Tecnologia**, **Linux**, **Programação** e **Soluções Inovadoras**
 - 🔭 Estudando **Java**, **Python**, **C**, **e Web.**
 - ⚡ Curioso por **versionamento de código (Git)** e boas práticas de desenvolvimento
 - 🤝 Sempre buscando colaborar em projetos e crescer em equipe!
@@ -50,7 +50,7 @@
 - 📧 **Email:** antoniougiete@gmail.com  
 - 📍 **Localização:** Recife - PE, Brasil  
 - 💼 **LinkedIn:** [Antônio Ugiete](https://www.linkedin.com/in/antoniougiete/)
-- 🖥️ **Portfólio (em breve!):** 
+- 🖥️ **Portfólio (em breve!)** 
 
 ---
 
