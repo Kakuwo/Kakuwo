@@ -10,7 +10,7 @@
 
 - 🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas** (5º período) na **UNIBRA**
 - 🚀 Apaixonado por **Tecnologia**, **Programação** e **Soluções Inovadoras**
-- 🔭 Estudando **Java**, **Python**, **C**, **HTML5** e **CSS3**
+- 🔭 Estudando **Java**, **Python**, **C**, **e Web.**
 - ⚡ Curioso por **versionamento de código (Git)** e boas práticas de desenvolvimento
 - 🤝 Sempre buscando colaborar em projetos e crescer em equipe!
 
@@ -49,16 +49,16 @@
 
 - 📧 **Email:** antoniougiete@gmail.com  
 - 📍 **Localização:** Recife - PE, Brasil  
-- 💼 **LinkedIn:** Antônio Ugiete(https://www.linkedin.com/in/antoniougiete/)  
-- 🖥️ **Portfólio (em breve!):** antoniougiete.dev (ou GitHub Pages!)
+- 💼 **LinkedIn:** [Antônio Ugiete](https://www.linkedin.com/in/antoniougiete/)
+- 🖥️ **Portfólio (em breve!):** 
 
 ---
 
 ## ⚡ Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antoniougiete&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniougiete&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kakuwo&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kakuwo&layout=compact&theme=radical"/>
 </p>
 
 ---
