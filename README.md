@@ -49,7 +49,7 @@
 
 - 📧 **Email:** antoniougiete@gmail.com  
 - 📍 **Localização:** Recife - PE, Brasil  
-- 💼 **LinkedIn:** [Seu LinkedIn Aqui](#)  
+- 💼 **LinkedIn:** Antônio Ugiete(https://www.linkedin.com/in/antoniougiete/)  
 - 🖥️ **Portfólio (em breve!):** antoniougiete.dev (ou GitHub Pages!)
 
 ---
