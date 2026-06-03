@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Antônio Ugiete</h1>
 
 <p align="center">
@@ -83,4 +82,3 @@ I focus on building a solid technical foundation, with attention to organization
 
 - Email: antoniougiete@gmail.com
 - LinkedIn: [linkedin.com/in/antoniougiete](https://www.linkedin.com/in/antoniougiete/)
-```
